@@ -1,0 +1,7 @@
+pwd // present working directory
+mkdir <folder name>// make directory
+cd <directory>// change directory
+touch file_name // to make a file
+rmdir <folder name> // delete directory
+rm <file_name> // delete file
+ls // list
