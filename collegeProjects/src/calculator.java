@@ -13,19 +13,19 @@ public class calculator {
         String str2 = "ek";
         String str3 = str1 + str2; //concatination
 
-        public static int Addition(){
+        public int Addition(){
             calculator c1 = new calculator();
             return (c1.num1 + c1.num2);
         }
-        public static int Subtraction(){
+        public int Subtraction(){
             calculator c1 = new calculator();
             return (c1.num1 - c1.num2);
         }
-        public static int Multiplication(){
+        public int Multiplication(){
             calculator c1 = new calculator();
             return (c1.num1 * c1.num2);
         }
-        public static int Division(){
+        public int Division(){
             calculator c1 = new calculator();
             return (c1.num1 / c1.num2);
         }

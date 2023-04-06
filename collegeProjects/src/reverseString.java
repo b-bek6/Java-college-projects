@@ -22,6 +22,3 @@ public class reverseString {
         r1.reverseStr(str);
     }
 }
-
-
-// string build
